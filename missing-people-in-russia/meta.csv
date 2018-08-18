@@ -1,0 +1,28 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7727739372-MVD_GIAC_3.11
+title,"Информация о розыске лиц, скрывшихся от дознания, суда уклоняющихся от исполнения уголовного наказания, без вести пропавших, а также об установлении личности граждан и неопознанных трупов"
+description,"Перечень статистических показателей, размещаемых в ЕМИСС в соответствии с пунктом 3.11 Федерального плана статистических работ"
+creator,МВД России
+created,20140727
+modified,20170727
+subject,"Пункт 3.11 Федерального плана статистических работ, информация о розыске лиц, скрывшихся от дознания, суда уклоняющихся от исполнения уголовного наказания, без вести пропавших, а также об установлении личности граждан и неопознанных трупов"
+format,CSV
+provenance,обновление набора данных
+valid,20171027
+publishername,Нефедова Татьяна Евгеньевна
+publisherphone,+7 (495)667-61-35
+publishermbox,tnefedova2@mvd.ru
+data-20170727-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20170727-structure-20140727.csv
+data-20170427-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20170427-structure-20140727.csv
+data-20170127-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20170127-structure-20140727.csv
+data-20161027-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20161027-structure-20140727.csv
+data-20160727-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20160727-structure-20140727.csv
+data-20160417-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20160417-structure-20140727.csv
+data-20160220-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20160220-structure-20140727.csv
+data-20151027-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20151027-structure-20140727.csv
+data-20150627-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20150627-structure-20140727.csv
+data-20150427-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20150427-structure-20140727.csv
+data-20150127-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20150127-structure-20140727.csv
+data-20140727-structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/data-20140727-structure-20140727.csv
+structure-20140727.csv,https://мвд.рф/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5/7727739372-MVD_GIAC_3.11/structure-20140727.csv
